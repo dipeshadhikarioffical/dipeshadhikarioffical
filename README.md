@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **[ Data Science Projects]()**
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://dipeshadhikari.tk)**
+<!-- - 👨‍💻 All of my projects are available at **[My Portfolio](https://dipeshadhikari.tk)**  -->
 
 - 📫 How to reach me **dipeshadhikarioffical@gmail.com**
 
@@ -50,8 +50,8 @@
 ## 📊 My Github Stats
 
   <br/>
-    <img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipeshadhikarioffical&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshadhikarioffical&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Dipesh Adhikari's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dipeshadhikarioffical&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+<img alt="Dipesh Adhikari's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipeshadhikarioffical&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -59,7 +59,7 @@
 <br/>
 <br/>
 
-<img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dipeshadhikarioffical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<img alt="Dipesh Adhikari's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dipeshadhikarioffical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -74,10 +74,10 @@
 
 </p>
 
-<!-- 
+
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=dipeshadhikarioffical">
 </a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
--->
+<a href="https://github.com/dipeshadhikarioffical?tab=followers"><img src="https://img.shields.io/github/followers/dipeshadhikarioffical?label=Followers&style=social" alt="GitHub Badge"></a>
+
