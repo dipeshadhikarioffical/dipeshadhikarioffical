@@ -18,6 +18,9 @@
 
 - ⚡ Fun fact **I love to play games and read self development books.**
 
+
+![App Screenshot](resume.png)
+
 ## 🚀 Languages and Tools:
 
 <p align="left"> 
