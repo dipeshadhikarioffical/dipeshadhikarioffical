@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Dipesh Adhikari </h1>
-<h3 align="center">I'm a passionate Data Scientist from Nepal.</h3>
+<h3 align="center">I'm a passionate Aspirant Data Scientist from Nepal.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -17,6 +17,7 @@
 - 📫 How to reach me **dipeshadhikarioffical@gmail.com**
 
 - ⚡ Fun fact **I love to play games and read self development books.**
+-  I have completed projects on Movie Recommendation System, Finance Personal Dashboard Using Power BI, Laptop Price Prediction, Olympic Data Analysis
 
 
 ![App Screenshot](resume.png)
