@@ -42,6 +42,18 @@
 
 </p>
 
+## 📊 My Overall Projects
+
+1. Movie Recommendation System : https://github.com/dipeshadhikarioffical/movie-recommendation-system
+
+2. Laptop Price Prediction : https://github.com/dipeshadhikarioffical/laptop-price-prediction
+3. Olympics Data Analysis : https://github.com/dipeshadhikarioffical/olympics-data-analysis
+4. Personal Dashboard : 
+https://github.com/dipeshadhikarioffical/personal-dashboard
+
+
+
+
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
 <br/>
 
